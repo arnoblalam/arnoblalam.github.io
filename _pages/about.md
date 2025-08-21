@@ -7,9 +7,9 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 profile:
   align: right
   image: prof_pic_color.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Department of Economics</p>
+    <p>American University, Department of Economics</p>
     <p>4400 Massachusetts Ave NW</p>
     <p>Washington, DC 20016</p>
 
