@@ -149,8 +149,6 @@ collections:
     defaults:
       layout: post
     output: true
-  projects:
-    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -196,6 +194,8 @@ exclude:
   - _posts/
   - _projects/?_project.md
   - assets/jupyter/blog.ipynb
+  - projects/
+  - _pages/projects.md
 keep_files:
   - CNAME
   - .nojekyll
