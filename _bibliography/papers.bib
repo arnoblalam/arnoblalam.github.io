@@ -1,115 +1,82 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
+% HOW TO USE WITH THIS CV FORMAT
+% -----------------------------
+% 1. Mark items with a "keyword" that specifies the type of item they will be grouped by within the CV
+% 2. Call \printbibliography in main.tex with the class ('article', 'misc', etc.) and keyword to "select" only the items you want for that group of items
 
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
+
+% Journals
+% #########################################################
+@article{henderson2022structure,
+  title={The structure of risk-sharing networks},
+  author={Henderson, Heath and \textbf{Alam, Arnob}},
+  journal={Empirical Economics},
+  volume={62},
+  number={2},
+  pages={853--886},
+  year={2022},
+  publisher={Springer},
+  keywords={J}
 }
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+@article{arslan2023care,
+  title={Care workers’ sense of responsibility, working conditions, and the quality of care in South Korea},
+  author={Arslan, Shirin and \textbf{Alam, Arnob} and Floro, Maria S and Cha, Seung-Eun and Kang, Eunhye},
+  journal={Philippine Review of Economics (Online ISSN 2984-8156)},
+  volume={60},
+  number={1},
+  pages={191--222},
+  year={2023},
+  keywords={J}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+@article{cha2023caregiving,
+  title={When caregiving becomes burden: the gap between preferred amount of care time and actual amount of care time},
+  author={Cha, Seung-Eun and Kang, Eunhye and Floro, Maria and Arslan, Shirin and \textbf{Arnob Alam}},
+  journal={Social Indicators Research},
+  volume={170},
+  number={2},
+  pages={375--397},
+  year={2023},
+  publisher={Springer Netherlands Dordrecht},
+  keywords={J}
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  location={New Jersey},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation={* Example use of superscripts<br>† Albert Einstein},
-  selected={true},
-  inspirehep_id = {3255}
+
+% Working papers
+% All of the non-standard items require the flexible "misc" class
+% #########################################################
+
+@misc{Working1,
+    title={NEWS for Riyadh, Saudia Arabia: Population-based Walking, 
+           Physical Activity, and Neighborhood Characteristics},
+    author={Everson, Kelly R. and \textbf{Alam, Arnob}},
+    howpublished={Not Published},
+    year={2025},
+    keywords={R}
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+% Talks
+% #########################################################
+
+@misc{Caps,
+    title   = {The Structure of Risk-Sharing Networks},
+    author  = {Henderson, Heath and \textbf{Arnob Alam}},
+    howpublished={\ul{2nd International Conference on Complexity And Policy Studies} (Arlington, VA, USA)},
+    month    = apr,
+    year    = {2018},
+    keywords={T}
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
+@misc{Iaffe,
+    title   = {Quality of Care, Commitment Level, and Working Conditions: Understanding the Care Workers’ Perspective},
+    author  = {Arslan, Shirin and Floro, Maria and \textbf{Arnob Alam}},
+    howpublished={\ul{30th International Association for Femenist Economists Annual Conference} (Geneva, Switzerland)},
+    month    = jun,
+    year    = {2022},
+    keywords={T}
 }
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
 
-@Article{einstein1905photoelectriceffect,
-  bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
-}
