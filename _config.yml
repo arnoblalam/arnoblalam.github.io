@@ -202,6 +202,7 @@ exclude:
   - _pages/projects.md
   - _pages/profiles.md
   - _pages/repositories.md
+  - _pages/teaching.md
 keep_files:
   - CNAME
   - .nojekyll
@@ -644,11 +645,5 @@ jsonresume:
   - work
   - education
   - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
   - languages
   - interests
-  - references
