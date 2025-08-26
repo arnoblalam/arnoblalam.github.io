@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://arnoblalam.github.io/sitemap.xml
+Sitemap: https://arnoblalam.com/sitemap.xml
