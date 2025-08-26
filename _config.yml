@@ -143,6 +143,12 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
+  books:
+    output: false
+  news:
+    defaults:
+      layout: post
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
