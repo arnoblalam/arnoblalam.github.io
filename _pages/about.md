@@ -29,7 +29,7 @@ latest_posts:
 I am an applied financial economist focusing on applying information theoretic methods to 
 analyze financial market regulation. I currently work as an Operations Research Analyst 
 for the Dept. of the Army where I help optimize the Army National Guard's force structure 
-and stationing process. I have previously worked as a researcher for the CFTC where I 
+and stationing process. I have previously worked as a research intern for the CFTC where I 
 studied the market for non-deliverable forwards. I received my Ph.D. in Economics from 
 American University in Summer 2025. 
 
