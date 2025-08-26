@@ -133,11 +133,18 @@
       "keywords": [
         "Asset Pricing",
         "Market Regulation",
-        "Derivatives",
-        "Info-Metrics",
-        "Information Theory"
+        "Derivatives"
       ]
-    }
+    },
+    {
+      "name": "Econometrics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Info-Metrics",
+        "Information Theory",
+        "Causal Inference",
+        "Survey Sampling"
+        }
   ],
   "references": [
     {
