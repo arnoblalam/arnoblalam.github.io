@@ -7,6 +7,5 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+* Adjunct Lecturer, Economics for Business (ECON-150), Fall 2019 - Spring 2021
+* Graduate Teaching Assistant, Financial Management (FIN-614), Fall 2018 - Spring 2019
