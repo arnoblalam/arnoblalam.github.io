@@ -26,12 +26,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an applied financial economist focusing on applying information theoretic methods to 
-analyze financial market regulation. I currently work as an Operations Research Analyst 
-for the Dept. of the Army where I help optimize the Army National Guard's force structure 
-and stationing process. I have previously worked as a research intern for the CFTC where I 
-studied the market for non-deliverable forwards. I received my Ph.D. in Economics from 
-American University in Summer 2025. 
+I am an applied financial economist and econometrician focusing on financial 
+market regulation and the use of info-metrics (information theory) to solving 
+empirical problems in a social science setting. I currently work as an 
+Operations Research Analyst (ORSA) for the Army where I help optimize the Army 
+National Guard's force structure  and stationing processes.
 
-I previously worked at the World Bank as a Short Term Consultant analyzing 
-health and active living survey data.
+In addition to working as a short-term consultant for the World Bank, and as a 
+researcher for the Care Work and the Economy (CWE-GAM) project, I was a research
+intern for the Commodity Futures Trading Commission (CFTC), where I looked at the
+non-deliverable forwards (NDF) markets. I also worked as a research associate at
+Drake University (under the supervision of Prof. Heath Henderson), where I examined
+the structure of risk-sharing networks.
+
+My research interests include financial market regulation, info-metrics and
+complex systems (especially network science).
